@@ -1,0 +1,15 @@
+{
+  "rollout_date": "2025-01-01",
+  "default_hourly_cost": 50.0,
+  "analysis": {
+    "group_keys": ["team", "role"],
+    "alpha": 0.05
+  },
+  "columns": {
+    "date": "date",
+    "employee_id": "employee_id",
+    "team": "team",
+    "role": "role",
+    "project": "project"
+  }
+}

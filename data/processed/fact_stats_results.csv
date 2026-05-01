@@ -1,0 +1,4 @@
+metric_name,group,pre_mean,post_mean,pct_change,test,p_value,effect_size
+task_hours,overall,3.5255,2.8608,18.8548,paired_t_and_wilcoxon,0.0,3.8733
+ai_usage_vs_task_hours,overall,0.0,0.0,0.0,pearson,0.555774,0.096
+ai_usage_vs_combined_output,overall,0.0,0.0,0.0,pearson,0.863062,-0.0282
